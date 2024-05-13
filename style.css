@@ -1,0 +1,19 @@
+.category-list {
+    list-style: none;
+    padding: 0;
+}
+
+.category-item {
+    background-color: #f2f2f2;
+    padding: 10px;
+    margin-bottom: 5px;
+    cursor: move;
+}
+
+.drag-over {
+    background-color: #e0e0e0;
+}
+
+.dropdown > li {
+    margin-left: 20px;
+}
